@@ -2,6 +2,8 @@ a=10
 b=20
 c=30*a*b
 print('Resultado=',c)
+d=c*100
+print('resultado final0',d)
 '''Generar un directorio local para que sea el repositorio espejo
 En VS Code ir a la línea de navegación de comando (SHIFT-CMD-P)
 Hacer login en GitHub (desde el ícono de cuenta en la esquina izquierda inferior): Sign In with GitHub. Validar que el usuario se encuentre activo.
