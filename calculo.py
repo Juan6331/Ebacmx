@@ -15,3 +15,4 @@ e=1.1
 f=d*e
 print('resultado final con factor de 1.1',f)
 #se añadio un factor de 1.1
+print('se espera que estos resultados favorescan al estudio ')
