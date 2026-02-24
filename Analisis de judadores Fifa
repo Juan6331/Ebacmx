@@ -1,0 +1,17 @@
+Importación de datos: Carga un archivo CSV llamado fifa_eda.csv usando pandas
+
+Exploración del dataset:
+
+Muestra datos de jugadores de fútbol con información como: ID, Nombre, Edad, Nacionalidad, Overall (calificación general), Potencial, Club, Salario, Posición, etc.
+Análisis de correlación:
+
+Crea una matriz de correlación de todas las variables numéricas
+Visualiza esta matriz como un heatmap (mapa de calor)
+Análisis específico: Edad vs. Overall:
+
+Responde la pregunta: "¿Cuál es la relación entre la edad y el overall?"
+Crea gráficos de dispersión (scatter plots) con línea de regresión
+Calcula numéricamente la correlación (0.45235), lo que indica una correlación positiva moderada: los jugadores más experimentados tienden a tener mejores calificaciones
+Visualizaciones:
+
+Utiliza librerías como matplotlib, seaborn y plotly para crear gráficos interactivos y estáticos
