@@ -1,2 +1,1 @@
-# Ebacmx
-Repositorio para tareas de ebac
+Proyectos de análisis exploratorio de datos con Python y pandas
